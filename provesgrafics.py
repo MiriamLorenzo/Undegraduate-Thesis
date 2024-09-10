@@ -7,7 +7,7 @@ from mpl_toolkits.mplot3d import Axes3D
 N = 10
 
 [obs_B0_min, obs_B0_max] = [10e-9,100e-9]
-Au = 1.496e12
+Au = 1.496e11
 [obs_R_min, obs_R_max] = [1e-7*Au,1e-2*Au]
 [obs_np_min, obs_np_max] = [10,1e6]
 
